@@ -1,0 +1,73 @@
+body{
+    background-color:black;
+}
+.h1{
+text-align: center;
+font-family:fantasy cursive;
+font-weight:bold;
+margin-top:100px;
+color:white;
+
+}
+.para{
+    text-align: center;
+    color: white;
+    margin-top: -150px;
+    margin-left: 60%;
+}
+.again{
+    margin-top: -30px;
+    margin-left: 15%;
+    width: 100px;
+    height: 50px;
+}
+.text{
+    width:120px;
+    height: 100px;
+    background-color:black;
+    border: 2px solid white;
+    margin-left: 50px;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    
+    
+}
+.box{
+    border:2px solid white;
+    background-color:white;
+    color: white;
+    width:100px;
+    text-align: center;
+    margin-top: -50px;
+    margin-left: 47%;
+    color:black;
+    height: 80px;
+    padding-top:30px;
+    padding-top: 21px;
+    font-size: 50px;
+    
+    
+}
+#hr{
+margin-top: 190px;
+}
+#check{
+    width: 5%;
+    margin-top: 40px;
+    margin-left:80px;
+    
+}
+.score{
+    margin-left: 80%;
+    margin-top: -180px;
+}
+.message{
+    color: white;
+}
+.crtscore{
+    color: white;
+}
+.highscore{
+    color:white
+}
